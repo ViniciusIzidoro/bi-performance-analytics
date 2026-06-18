@@ -26,13 +26,13 @@ Criar uma visão estratégica de indicadores comerciais (KPIs), permitindo a an�
 
 ## Tecnologias Utilizadas
 * **Power BI:** Ferramenta de visualização utilizada para a criação dos dashboards interativos.
-* **Modelagem de Dados:** Estruturação das bases de dados para garantir a correta integração e visualização dos indicadores de vendas sem a necessidade de cálculos complexos.
+* **Modelagem de Dados:** Estruturação das bases de dados para garantir a correta integração e visualização dos indicadores de vendas, com foco em uma arquitetura de dados eficiente.
 
 ## Visualização do Sistema
 
-![Dashboard de Vendas 1](image_8342c2.png)
-![Dashboard de Vendas 2](image_834984.png)
-![Dashboard de Vendas 3](image_834a61.png)
+![Dashboard de Vendas 1](Painel%20analise%20de%20vendas.PNG)
+![Dashboard de Vendas 2](Painel%20interativo%20analise%20de%20vendas.PNG)
+![Dashboard de Vendas 3](Painel%20interativo%20analise%20de%20vendas%202.PNG)
 
 ---
 
